@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/His
 - 🔭 I’m currently building ....("____")
 - 🌱 I’m currently learning more about Angular & React
-- 👯 I’m looking to collaborate on [linked in](https://www.linkedin.com/in/abhiram-jayakumar-405911233/).
+- 📄 You can View My Resume And Experience https://abhiram-jayakumar.github.io/MyResume/
 - 🤔 I’m looking for help with  <strong>ML.</strong>
 - 💬 Ask me about <strong>HTML,CSS,BOOTSTRAP </srong>/- any tech-related stuff.
 - 📫 How to reach me: Check social links below.
