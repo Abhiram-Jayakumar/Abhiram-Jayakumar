@@ -21,7 +21,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([[https://open.spotify.com/user/atk6gy5f75cm4gfeu59mruy2v?si=d1cb4acca82c49db](https://open.spotify.com/user/7wiz0dwar4cbf527vnbf619st)](https://open.spotify.com/collection/tracks))
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/7wiz0dwar4cbf527vnbf619st)
 
 
 ## 💻 Tech Stack
